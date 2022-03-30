@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a person who write something boring
+I'm a person who writes something boring
 
 wanna have my own cool software libraries, frameworks
 
