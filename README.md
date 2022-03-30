@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a person who write something boring
+
+wanna have my own cool software libraries, frameworks
+
+nothing to say anymore
+
+anyways I'm hungry
+my dad says "hi Hungry, I'm dad!"
